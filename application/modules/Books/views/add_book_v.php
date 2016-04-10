@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <div class="col-md-12">               
-                    <input type="file" name="book_images" multiple>                
+                    <input type="file" name="book_images[]" multiple>                
                 </div>
                 <div class="col-md-12">
                     <div>

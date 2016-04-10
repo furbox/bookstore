@@ -11,7 +11,7 @@
  *
  * @author furbox
  */
-class M_Publisher extends CI_Model{
+class M_Publishers extends CI_Model{
     //put your code here
     public function __construct() {
         parent::__construct();
